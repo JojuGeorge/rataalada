@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rataalada/static/css/main.ce042ae6.css",
-    "main.js": "/rataalada/static/js/main.10679bb5.js",
+    "main.js": "/rataalada/static/js/main.30390114.js",
     "static/js/787.e037ce5a.chunk.js": "/rataalada/static/js/787.e037ce5a.chunk.js",
     "index.html": "/rataalada/index.html",
     "main.ce042ae6.css.map": "/rataalada/static/css/main.ce042ae6.css.map",
-    "main.10679bb5.js.map": "/rataalada/static/js/main.10679bb5.js.map",
+    "main.30390114.js.map": "/rataalada/static/js/main.30390114.js.map",
     "787.e037ce5a.chunk.js.map": "/rataalada/static/js/787.e037ce5a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ce042ae6.css",
-    "static/js/main.10679bb5.js"
+    "static/js/main.30390114.js"
   ]
 }
