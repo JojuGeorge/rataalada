@@ -72,6 +72,8 @@ const UseOnEnter = () => {
               ].q
             )
           );
+        } else {
+          setConsoleOutput(() => consoleOutput.concat(value));
         }
       } else {
         setIsCorrect(false);
