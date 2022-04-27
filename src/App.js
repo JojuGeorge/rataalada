@@ -42,7 +42,7 @@ const initialState = {
       c: "<<?>> H- L--- S----",
     },
     {
-      q: "IT CAN BE CUREL, POETIC OR BLIND, BUT WHEN IT'S DENIED, IT'S VIOLENCE YOU MAY FIND ?",
+      q: "IT CAN BE CRUEL, POETIC OR BLIND, BUT WHEN IT'S DENIED, IT'S VIOLENCE YOU MAY FIND ?",
       a: "JUSTICE",
       c: "<<?>> J------",
     },
