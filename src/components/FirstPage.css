@@ -1,0 +1,17 @@
+table {
+  margin-top: 40px;
+  margin-left: 50px;
+  margin-bottom: 100px;
+  line-height: 150%;
+}
+
+.link-div {
+  margin-top: 10px;
+  margin-left: 40px;
+  color: rgb(0, 169, 0);
+  text-decoration: inherit;
+}
+
+.link {
+  text-decoration: inherit;
+}
