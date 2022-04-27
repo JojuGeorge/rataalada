@@ -170,11 +170,7 @@ function App() {
         <div className="App">
           <Routes>
             <Route path="/" element={<FirstPage />} />
-            <Route
-              path="console"
-              basename="/rataalada/console"
-              element={<Console />}
-            />
+            <Route path="console" element={<Console />} />
           </Routes>
         </div>
       </RiddleContext.Provider>
