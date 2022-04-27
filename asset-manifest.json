@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/rataalada/static/css/main.073c9b0a.css",
-    "main.js": "/rataalada/static/js/main.a316cd5f.js",
-    "static/js/787.e037ce5a.chunk.js": "/rataalada/static/js/787.e037ce5a.chunk.js",
-    "static/media/logo.svg": "/rataalada/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/rataalada/index.html",
-    "main.073c9b0a.css.map": "/rataalada/static/css/main.073c9b0a.css.map",
-    "main.a316cd5f.js.map": "/rataalada/static/js/main.a316cd5f.js.map",
-    "787.e037ce5a.chunk.js.map": "/rataalada/static/js/787.e037ce5a.chunk.js.map"
+    "main.css": "/static/css/main.5dce9e80.css",
+    "main.js": "/static/js/main.c4dedbee.js",
+    "static/js/787.bf1d1925.chunk.js": "/static/js/787.bf1d1925.chunk.js",
+    "index.html": "/index.html",
+    "main.5dce9e80.css.map": "/static/css/main.5dce9e80.css.map",
+    "main.c4dedbee.js.map": "/static/js/main.c4dedbee.js.map",
+    "787.bf1d1925.chunk.js.map": "/static/js/787.bf1d1925.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a316cd5f.js"
+    "static/css/main.5dce9e80.css",
+    "static/js/main.c4dedbee.js"
   ]
 }
