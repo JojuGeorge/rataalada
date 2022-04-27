@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rataalada/static/css/main.5dce9e80.css",
-    "main.js": "/rataalada/static/js/main.45221f03.js",
+    "main.css": "/rataalada/static/css/main.ce042ae6.css",
+    "main.js": "/rataalada/static/js/main.c1fccc9d.js",
     "static/js/787.e037ce5a.chunk.js": "/rataalada/static/js/787.e037ce5a.chunk.js",
     "index.html": "/rataalada/index.html",
-    "main.5dce9e80.css.map": "/rataalada/static/css/main.5dce9e80.css.map",
-    "main.45221f03.js.map": "/rataalada/static/js/main.45221f03.js.map",
+    "main.ce042ae6.css.map": "/rataalada/static/css/main.ce042ae6.css.map",
+    "main.c1fccc9d.js.map": "/rataalada/static/js/main.c1fccc9d.js.map",
     "787.e037ce5a.chunk.js.map": "/rataalada/static/js/787.e037ce5a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5dce9e80.css",
-    "static/js/main.45221f03.js"
+    "static/css/main.ce042ae6.css",
+    "static/js/main.c1fccc9d.js"
   ]
 }
