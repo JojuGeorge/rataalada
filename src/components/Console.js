@@ -57,13 +57,15 @@ function Console() {
           <span>
             <span className="downloadLink">
               <br />
+              <br />
+              <br />
               <RiddlerPrompt />
               <span>BEWARE OF ABSOLUTE POWER. IT CORRUPTS UNCONDITIONALLY</span>
               <br />
               <br />
               <RiddlerPrompt />
               <a href="know_what_i_know.zip" download>
-                [CLICK HERE TO DOWNLOAD REWARD]
+                [ CLICK HERE TO DOWNLOAD REWARD... ]
               </a>
             </span>
             <span className="outro">

@@ -63,14 +63,16 @@ const UseOnEnter = () => {
           setCount((prevCount) => prevCount + 1);
         }
 
-        setConsoleOutput(() =>
-          consoleOutput.concat(
-            value,
-            riddleContext.riddleState.trueAnswer[
-              getRandomInt(maxTrueAnswerCount)
-            ].q
-          )
-        );
+        if (count !== maxRiddleCount - 1) {
+          setConsoleOutput(() =>
+            consoleOutput.concat(
+              value,
+              riddleContext.riddleState.trueAnswer[
+                getRandomInt(maxTrueAnswerCount)
+              ].q
+            )
+          );
+        }
       } else {
         setIsCorrect(false);
         setWrongAnsCount((prevCount) => prevCount + 1);

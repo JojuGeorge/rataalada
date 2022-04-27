@@ -54,7 +54,7 @@ function FirstPage() {
       </span>
       <div className="link-div">
         <Link className="link" to="/console">
-          [ CONTINUE TO RIDDLE...]
+          [ CONTINUE TO RIDDLE... ]
         </Link>
       </div>
       <Outlet />

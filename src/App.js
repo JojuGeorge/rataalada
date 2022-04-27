@@ -19,32 +19,32 @@ const initialState = {
     {
       q: ["WHAT'S BLACK AND BLUE AND DEAD ALL OVER ?"],
       a: "BATMAN",
-      c: ">>> B-----",
+      c: ">>> [ B----- ]",
     },
     {
       q: "THOSE WHO MAKE ME ARE LIKELY TO BREAK ME ?",
       a: "LAW",
-      c: ">>>  L--",
+      c: ">>>  [ L-- ]",
     },
     {
       q: "I AM FIRST A FRAUD OR A TRICK. OR PERHAPS A BLEND OF THE TWO. THAT'S UPTO YOUR MISINTERPRETATION ? ",
       a: "CONFUSION",
-      c: ">>> C-------N",
+      c: ">>> [ C-------N ]",
     },
     {
       q: "I CAN BE EASY OR A DEAD END. CAREFUL WHEN YOU CROSS ME ?",
       a: "STREET",
-      c: ">>> S-----",
+      c: ">>> [ S----- ]",
     },
     {
       q: "WHAT DOES A LIAR DO WHEN HE'S DEAD ?",
       a: "HE LIES STILL",
-      c: ">>> H- L--- S----",
+      c: ">>> [ H- L--- S---- ]",
     },
     {
       q: "IT CAN BE CRUEL, POETIC OR BLIND, BUT WHEN IT'S DENIED, IT'S VIOLENCE YOU MAY FIND ?",
       a: "JUSTICE",
-      c: ">>> J------",
+      c: ">>> [ J------ ]",
     },
     {
       q: [
@@ -54,37 +54,37 @@ const initialState = {
         "DO YOU KNOW WHAT I AM ?",
       ],
       a: "ORPHAN",
-      c: ">>> O-----",
+      c: ">>> [ O----- ]",
     },
     {
       q: "THE LESS OF THEM YOU HAVE, THE MORE ONE IS WORTH ? ",
       a: "FRIEND",
-      c: ">>> F-----",
+      c: ">>> [ F----D ]",
     },
     {
       q: "FEAR HE WHO HIDES BEHIND ONE ?",
       a: "MASK",
-      c: ">>> M---",
+      c: ">>> [ M--- ]",
     },
     {
       q: "WHAT WAS NEW, IS NEW AGAIN. REBIRTH, RESTORATION, REFORMATION ?",
       a: "RENEWAL",
-      c: ">>> R------",
+      c: ">>> [ R------ ]",
     },
     {
       q: "IF YOU ARE JUSTICE, PLEASE DO NOT LIE. WHAT IS THE PRICE FOR YOUR BLIND  EYE ?",
       a: "BRIBE",
-      c: ">>> B----",
+      c: ">>> [ B---- ]",
     },
     {
       q: "THE FAMOUS CRAVE ME. OTHERS PROTECT THEMSELVES FROM ME. NO MATTER HOW YOU DEFINE ME, I ALWAYS END UP WITH CERTAINTY ?",
       a: "EXPOSURE",
-      c: ">>> E-------",
+      c: ">>> [ E------E ]",
     },
     {
       q: "WHILE IT SHOULDN'T BE A CONTROVERSIAL POLICY, MANY OF GOTHAM'S ELITE PREFER TO DO THE OPPOSITE OF WHAT IS BEST ?",
       a: "HONESTY",
-      c: ">>> H------",
+      c: ">>> [ H------ ]",
     },
   ],
   falseAnswer: [
