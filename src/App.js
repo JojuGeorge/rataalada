@@ -163,7 +163,7 @@ function App() {
   const [riddle, dispatch] = useReducer(reducer, initialState);
 
   return (
-    <Router>
+    <Router basename="/rataalada">
       <RiddleContext.Provider
         value={{ riddleState: riddle, riddleDispatch: dispatch }}
       >
